@@ -9,14 +9,18 @@ The interactions are controlling a dancing penguin using keyboard arrow keys and
 ##### Addons:
 
 [ofxFFT](https://github.com/kylemcdonald/ofxFft)
+
 AudioAnalyser library credited to James Acres and Anthony Scavarelli
+
 ofFmodSoundPlayer_MOD was provided in the class code
 
   
 
 #### Images:
 [City night background](https://pixabay.com/photos/milky-way-stars-night-sky-2695569/) by Felix Mittermeier
+
 [Sunrise sky background](https://www.pexels.com/photo/silhouette-of-mountain-under-orange-and-blue-sky-during-sunset-92664/) by David McEachan
+
 All other visual assets by me
 
   
